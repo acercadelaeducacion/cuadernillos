@@ -1,2 +1,2 @@
 # Cuadernillos de estudio
-Colección de cuadernillos para el estudio y las adaptaciones curriculares
+Esta es una colección de cuadernillos para reforzar el estudio de algunas materias
