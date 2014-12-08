@@ -1,5 +1,5 @@
 ## Semana 3
-### Problemas :)
+### Problemas 1 :)
 1. Claudia tiene una colección de cajitas de fósforos repartidas en 4 bolsas. En una, tiene 70 cajitas; en otra 120; en la tercera, 85; y en la última, 100. Sin escribir cuentas, ¿podrías decir si Claudiatiene más o menos de 400 cajitas en su colección?
 
 2. Indicá, para cada uno de los siguientes problemas, si se resuelve con una suma o con una resta:
