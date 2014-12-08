@@ -6,4 +6,11 @@
 
 #### En esta grilla, están los números desde el 1.100 al 1.600 ubicados de 10 en 10.
 
-![](assets/Selección_004.png)
+![](imagenes/Selección_004.png)
+
+a) Ubicá en la grilla el 1.370 y el 1.470. ¿Te sirve saber dónde va uno para saber dónde va el otro?
+¿Por qué?
+
+b) ¿Se puede ubicar en la grilla el 1.590? ¿Dónde?
+
+c) ¿Se puede ubicar en la grilla el 1.374? ¿Por qué?

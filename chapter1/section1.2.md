@@ -1,5 +1,5 @@
 ## Semana 2
-### Números y operaciones II
+### Números y operaciones 2
 #### Contar hacia atrás de 100 en 100 empezando. Llenar los espacios en blanco:
 
 - 792, ________ , ________, 492, ________,  ________,
